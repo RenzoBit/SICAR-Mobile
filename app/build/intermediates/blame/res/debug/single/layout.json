@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\PROYECTOS\\AndroidStudioProjects\\SICAR-Mobile01\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "C:\\PROYECTOS\\AndroidStudioProjects\\SICAR-Mobile01\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\PROYECTOS\\AndroidStudioProjects\\SICAR-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\envio_ubicacion.xml",
+        "source": "C:\\PROYECTOS\\AndroidStudioProjects\\SICAR-Mobile\\app\\src\\main\\res\\layout\\envio_ubicacion.xml"
+    },
+    {
+        "merged": "C:\\PROYECTOS\\AndroidStudioProjects\\SICAR-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "C:\\PROYECTOS\\AndroidStudioProjects\\SICAR-Mobile\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\PROYECTOS\\AndroidStudioProjects\\SICAR-Mobile01\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\PROYECTOS\\AndroidStudioProjects\\SICAR-Mobile01\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\PROYECTOS\\AndroidStudioProjects\\SICAR-Mobile01\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nuevo_viaje.xml",
+        "source": "C:\\PROYECTOS\\AndroidStudioProjects\\SICAR-Mobile01\\app\\src\\main\\res\\layout\\nuevo_viaje.xml"
+    },
+    {
+        "merged": "C:\\PROYECTOS\\AndroidStudioProjects\\SICAR-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nuevo_viaje.xml",
+        "source": "C:\\PROYECTOS\\AndroidStudioProjects\\SICAR-Mobile\\app\\src\\main\\res\\layout\\nuevo_viaje.xml"
+    },
+    {
+        "merged": "C:\\PROYECTOS\\AndroidStudioProjects\\SICAR-Mobile01\\app\\build\\intermediates\\res\\merged\\debug\\layout\\envio_ubicacion.xml",
+        "source": "C:\\PROYECTOS\\AndroidStudioProjects\\SICAR-Mobile01\\app\\src\\main\\res\\layout\\envio_ubicacion.xml"
+    },
+    {
+        "merged": "C:\\PROYECTOS\\AndroidStudioProjects\\SICAR-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\PROYECTOS\\AndroidStudioProjects\\SICAR-Mobile\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

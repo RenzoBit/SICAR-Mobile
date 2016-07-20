@@ -1,0 +1,6 @@
+CHANGED,C:\PROYECTOS\AndroidStudioProjects\SICAR-Mobile\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\pe\edu\upc\sicar\activities\NuevoViajeActivity$1$override.class
+CHANGED,C:\PROYECTOS\AndroidStudioProjects\SICAR-Mobile\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\pe\edu\upc\sicar\activities\EnvioUbicacionActivity$guardarUbicacion$override.class
+CHANGED,C:\PROYECTOS\AndroidStudioProjects\SICAR-Mobile\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\PROYECTOS\AndroidStudioProjects\SICAR-Mobile\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\pe\edu\upc\sicar\activities\NuevoViajeActivity$listarOrden$override.class
+CHANGED,C:\PROYECTOS\AndroidStudioProjects\SICAR-Mobile\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\pe\edu\upc\sicar\util\ServiceUrl$override.class
+CHANGED,C:\PROYECTOS\AndroidStudioProjects\SICAR-Mobile\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\pe\edu\upc\sicar\activities\MainActivity$listarPersona$override.class
